@@ -1,3 +1,6 @@
 .txtbox{
-
-}
+  text-align: left;
+  width: 100%;
+  height: 100px;
+  margin: 15px 0;
+};
